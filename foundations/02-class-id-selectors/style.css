@@ -1,0 +1,19 @@
+.pink-bg {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif'  ;
+}
+
+.blue-txt {
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+.green-bg {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
